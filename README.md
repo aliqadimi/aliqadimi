@@ -10,25 +10,12 @@ I'm Ali Qadimi!
 - Freelance programming
 
 
-__Check out my GitHub repository:__
-
-<div>
-  <p>
-    <a href="https://github.com/aliqadimi/OOP">
-      <img src="" alt="OOP" />
-    </a>
-    <a href="https://github.com/aliqadimi/Laravel-Features">
-      <img src="" alt="Laravel-Features" />
-    </a>
-  </p>
-</div>
 
 <h2> About Ali⚡:</h2>
 
 💻 I'm a backend PHP programmer with three years of coding experience.
 👀 I’m interested in developing scalable web applications and working with emerging technologies.
 🔭 I’m currently working on improving my coding skills and exploring new PHP frameworks.
-📫 You can reach me at aliqadimi19988@gmail.com or connect with me on LinkedIn.
 
 <h2>📫 How to reach me:</h2>
 
